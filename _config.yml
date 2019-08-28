@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Demetriadou Nanophotonics group"
+title                    : "#Demetriadou Nanophotonics group"
 title_separator          : "-"
 name                     : &name "Angela Demetriadou"
 description              : &description "personal description"
